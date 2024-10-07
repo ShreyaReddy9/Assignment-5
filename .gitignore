@@ -1,0 +1,9 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore package-lock.json
+package-lock.json
+
+# Ignore desktop.ini files in specific directories
+dist/css/desktop.ini
+dist/images/desktop.ini
